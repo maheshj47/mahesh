@@ -1,0 +1,3 @@
+include ':SmartDoclibrary'
+include ':app'
+rootProject.name = "DocViewer"
